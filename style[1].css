@@ -1,0 +1,180 @@
+#sources {
+    background-color: rgb(250,250,250);
+  }
+  #sources-title {
+    font-type: bold;
+    background-color: red;
+  }
+  
+#wilkes-image {
+      width: 55%;
+
+    }
+    #LINC-ad {
+      width:60%;
+    
+    }
+    #grace-hopper-image-2 {
+      width:35%;
+    }
+    #mark-1 {
+      width: 35%;
+    }
+    #univac-1 {
+      width: 35%;
+      
+       }
+    #ENIAC-women-pic1 {
+      width: 80%    
+    }
+    #ENIAC-women-pic2 {
+      width:75%;
+    }
+    #barbara-liskov-img {
+      width:40%;
+      
+    }
+    .footer {
+      background-color: #e8e8e3;
+      clear:both;
+      border: 3px solid black;
+      padding:5px;
+      text-align:center;
+    }
+    #marissa-mayer-image {
+      width: 40%;
+      padding:10px;
+    }
+    .info {
+      clear:both;
+      width:47%;
+      float: left;
+      padding:15px;
+    }
+    .images {
+      width:47%;
+      float:right;
+      padding:15px;
+    }
+    #radia-perlman-image {
+      width:70%;
+    }
+
+  
+
+
+  .container {
+    display:flex;
+  }
+  .links {
+    width:25%;
+    background-color:#d4faf9;
+    padding:5px;
+    border: 3px solid black;
+    text-align:center;
+   
+  }
+  .main {
+    width:75%;
+    border:3px solid black;
+    padding: 10px;
+    text-align:center;
+  }
+  
+  .header {
+    border: 3px solid black;
+    background-color: #f7f7b7;
+    padding:5px;
+    text-align:center;
+    
+  }
+  #home-image-4 {
+      width:50%;
+    }
+    #home-image-3 {
+      width:50%;
+    }
+    #home-image {
+      width:50%;
+      }  
+    #home-image-2 {
+      width:50%;
+    }
+    .links-page-1 {
+      float:left;
+      width:25%;
+      border:3px solid black;
+      padding:5px;
+      background-color: #d4faf9;
+      text-align:center;
+    }
+    .main-page-1 {
+      float:right;
+      width:75%;
+      border:3px solid black;
+      padding:5px;
+      text-align:center;
+  
+    }
+    .header-page-1 {
+      border:3px solid black;
+      padding:5px;
+      background-color:#f7f7b7;
+      text-align:center;
+    }
+    .container-p1 {
+      display:flex;
+    
+    }
+    #main-image-p1 {
+      width:50%;
+      
+    }
+    #eniac-women-image-p1 {
+      width:50%;
+    }
+    #text{
+      float:left;
+    }
+    .footer-p1 {
+      background-color:#e8e8e3;
+      clear:both;
+      border: 3px solid black;
+      padding:5px;
+      text-align:center;
+    }
+    .container-s3 {
+      display:flex;
+    }
+    .links-s3 {
+      float:left;
+      width:25%;
+      border:3px solid black;
+      padding:10px;
+      background-color: #d4faf9;
+      text-align:center;
+    }
+    .main-s3 {
+      float:right;
+      width:75%;
+      border:3px solid black;
+      padding:5px;
+      text-align:center;
+    }
+     .header-s3 {
+      border:3px solid black;
+      padding:5px;
+      background-color:#f7f7b7;
+      text-align:center;
+     }
+     .footer-s3 {
+      background-color:#e8e8e3;
+      clear:both;
+      border: 3px solid black;
+      padding:5px;
+      text-align:center;
+     }
+     #quote {
+       border:3px solid black;
+       font-family:"garamond";
+     }
